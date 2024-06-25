@@ -5,7 +5,7 @@
 ![showLicense](https://img.shields.io/github/license/DarkBlood159/Ryusak-Offline)
 
 <p align="center">
-  <img width="80%" alt="screenshot" src="https://github.com/darkblood159/Ryusak-Offline/blob/main/screenshot.png" />
+  <img width="80%" alt="screenshot" src="https://github.com/darkblood159/RyuSAK-Offline/blob/master/screenshot.png" />
 </p>
 
 **_⚠️WARNING⚠️ I HAVE NO CODING EXPERIENCE SO EVERYTHING I DO HAS A CHANCE TO BREAK THIS IS JUST FOR FUN._**
