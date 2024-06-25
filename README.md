@@ -8,10 +8,10 @@
   <img width="80%" alt="screenshot" src="https://github.com/darkblood159/Ryusak-Offline/blob/main/screenshot.png" />
 </p>
 
-**_WARNING I HAVE NO CODING EXPERIENCE SO EVERYTHING I DO HAS A CHANCE TO BREAK THIS IS JUST FOR FUN._**
+**_⚠️WARNING⚠️ I HAVE NO CODING EXPERIENCE SO EVERYTHING I DO HAS A CHANCE TO BREAK THIS IS JUST FOR FUN._**
 ## Installation
 Just go to the [releases](https://github.com/darkblood159/Ryusak-Offline/releases) page and download the latest build for your OS.
-The Windows build also comes with an auto update feature. (windows is currently the only os im building for.)
+_**(windows is currently the only os im building for.)**_
 
 ### Windows
 
@@ -40,5 +40,5 @@ Run local build: `npm start`
 
 ## Credits
 * CapitaineJSparrow for creating the original [emusak-ui](https://github.com/CapitaineJSparrow/emusak-ui) project
-* Ecchibitionist for hosting the firmware, saves, shaders and mods on his CDN
-* Ecks for Starting Ryusak
+* Ecks for continuing and improving EmuSak through RyuSak
+* Ecchibitionist for hosting the firmware, saves, shaders and mods on his CDN (old)
