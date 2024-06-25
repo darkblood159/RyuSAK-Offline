@@ -41,4 +41,4 @@ Run local build: `npm start`
 ## Credits
 * CapitaineJSparrow for creating the original [emusak-ui](https://github.com/CapitaineJSparrow/emusak-ui) project
 * Ecks for continuing and improving EmuSak through RyuSak
-* Ecchibitionist for hosting the firmware, saves, shaders and mods on his CDN (old)
+* Ecchibitionist for hosting the firmware, saves, shaders and mods on his CDN in the Past
