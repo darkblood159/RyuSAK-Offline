@@ -24,7 +24,7 @@ Download the `RyuSAK-win32-x64-X.Y.Z.zip` file, then unzip it to your chosen loc
 * Display your local shaders count
 * Display RyuSAK shaders count (to download them if you have fewer shaders) _**BROKEN**_
 * Update firmware _**BROKEN**_
-* Update production keys _**BROKEN**_
+* Update production keys
 * Download saves for a specific game _**BROKEN**_
 * Download shaders for a specific game _**BROKEN**_
 * Downloads mods for a specific game _**BROKEN**_
