@@ -1,17 +1,16 @@
-import HttpService from "../services/HttpService";
 import electron from "electron";
 import { SYS_SETTINGS } from "../../index";
 
 const loadComponentIpcHandler = async () => Promise.all([
   SYS_SETTINGS,
-  HttpService.downloadRyujinxShaderList(),
-  HttpService.downloadSaveList(),
-  HttpService.downloadModsTitleList(),
-  HttpService.getFirmwareVersion(),
-  HttpService.getLatestApplicationVersion(),
+  [], // Mock empty shader list
+  [], // Mock empty save list
+  [], // Mock empty mods title list
+  "1.0.0", // Mock firmware version
+  "1.0.0", // Mock application version
   electron.app.getVersion(),
-  HttpService.getThreshold(),
-  HttpService.getShadersMinVersion()
+  100, // Mock threshold value
+  "1.0.0" // Mock shaders minimum version
 ]);
 
 export default loadComponentIpcHandler;
