@@ -1,7 +1,7 @@
 {
   "name": "RyuSAK",
   "productName": "RyuSAK",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "description": "RyuSAK",
   "repository": "https://github.com/Ecks1337/RyuSAK",
   "main": ".vite/build/index.js",
