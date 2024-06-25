@@ -3,7 +3,7 @@
   "productName": "RyuSAK",
   "version": "1.6.4",
   "description": "RyuSAK",
-  "repository": "https://github.com/Ecks1337/RyuSAK",
+  "repository": "https://github.com/DarkBlood159/RyuSAK-Offline",
   "main": ".vite/build/index.js",
   "scripts": {
     "start": "electron-forge start",
@@ -11,9 +11,10 @@
     "make": "electron-forge make --skip-package",
     "lint": "eslint --ext .ts,.tsx ."
   },
-  "author": "Ecks1337",
+  "author": "DarkBlood159",
   "contributors": [
-    "CapitaineJSparrow"
+    "CapitaineJSparrow",
+    "Ecks"
   ],
   "license": "GPL-3.0",
   "config": {
