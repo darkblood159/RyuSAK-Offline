@@ -32,7 +32,7 @@ export enum HTTP_PATHS {
 export enum OTHER_URLS {
   SHADERS_UPLOAD          = "https://send.nukes.wtf/upload/",
   SHADERS_POST            = "https://ryusak.lewd.wtf/",
-  RELEASE_INFO            = "https://api.github.com/repos/Ecks1337/RyuSAK/releases/latest",
+  RELEASE_INFO            = "https://api.github.com/repos/DarkBlood159/RyuSAK-Offline/releases/latest",
   COMPAT_LIST             = "https://api.github.com/search/issues?q={query}%20repo:Ryujinx/Ryujinx-Games-List",
   ESHOP_DATA              = "https://github.com/arch-box/titledb/releases/download/latest/titles.US.en.json",
   GAME_BANANA_SEARCH_GAME = "https://api.gamebanana.com/Core/List/Like?itemtype=Game&field=name&match={match}",
